@@ -51,6 +51,10 @@ body {
     transition: 0.4s ease;
 }
 
+.c-nav-collapse {
+    flex-grow: 0;
+}
+
 .c-cursor-pinter {
     cursor: pointer;
 }
