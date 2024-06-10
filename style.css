@@ -1,8 +1,4 @@
-body {
-    background-color: white;
-    /* font-family: Mulish; */
-}
-
+/* navbar */
 .nav-inner {
     display: flex;
     justify-content: space-between;
@@ -10,7 +6,6 @@ body {
 
 .logo {
     border-radius: 50%;
-    /* padding: 5px 7px 8px 7px; */
     background-color: #458FF6;
     width: 41px;
     height: 41px;
@@ -58,6 +53,13 @@ body {
 .c-cursor-pinter {
     cursor: pointer;
 }
+/* end navbar */
+
+/* hero section */
+
+.c-hero-element {
+    transform: translateX(-200px) translateY(63px);
+}
 
 .header-text {
     width: 445px;
@@ -65,14 +67,13 @@ body {
     margin-top: 140px;
     border-radius: 55px;
 }
-/* 
+
 .healthcare {
     color: #000000;
 }
 
 .info {
     font-weight: 300;
-    height: 96px;
     font-size: 21px;
     color: #7d7987;
 }
@@ -83,17 +84,11 @@ body {
     margin-top: 20px;
     border-radius: 55px;
     color: white;
+    font-size: 18px;
     background-color: #458FF6;
 }
 
-.container {
-    justify-content: space-between;
-    display: flex;
-    margin-left: 150px;
-}
-
 /* our services */
-
 
 .title {
     width: 212px;
@@ -286,4 +281,4 @@ body {
 .app-img {
     margin-top: 250px;
     margin-left: 20px;
-} */
+}
