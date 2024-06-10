@@ -1,0 +1,273 @@
+body {
+    background-color: white;
+    /* font-family: Mulish; */
+}
+
+.nav-inner {
+    display: flex;
+    justify-content: space-between;
+}
+
+.logo-M {
+    width: 41px;
+    height: 41px;
+    margin-top: 60px;
+    margin-left: 180px;
+    font-size: 26px;
+    border-radius: 50%;
+    padding: 5px 7px 8px 7px;
+    color: white;
+    background-color: #458FF6;
+}
+
+.logo-name {
+    width: 97px;
+    height: 30px;
+    margin-top: 62px;
+    margin-left: 10px;
+    color: #233348;
+    font-size: 24px;
+}
+
+.nav-ul {
+    width: 328px;
+    height: 23px;
+    margin-top: 70px;
+    margin-left: 740px;
+    display: flex;
+    list-style-type: none;
+    align-items: center;
+    justify-content: space-between;
+    color: #1F1534;
+}
+
+
+
+.nav-li a {
+    text-decoration: none;
+    color: #1F1534;
+}
+
+.header-text {
+    width: 445px;
+    height: 338px;
+    margin-top: 140px;
+    border-radius: 55px;
+}
+
+.healthcare {
+    color: #000000;
+}
+
+.info {
+    font-weight: 300;
+    height: 96px;
+    font-size: 21px;
+    color: #7d7987;
+}
+
+.btn {
+    width: 200px;
+    height: 56px;
+    margin-top: 20px;
+    border-radius: 55px;
+    color: white;
+    background-color: #458FF6;
+}
+
+.container {
+    justify-content: space-between;
+    display: flex;
+    margin-left: 150px;
+}
+
+/* our services */
+
+
+.title {
+    width: 212px;
+    height: 56px;
+    margin-top: 300px;
+    margin-left: 695px;
+    font-size: 36px;
+    color: #000000;
+}
+
+.line {
+    width: 56px;
+    height: 2px;
+    margin-left: 772px;
+    background-color: #000000;
+
+}
+
+.service-info {
+    width: 952px;
+    height: 60px;
+    margin-top: 50px;
+    margin-left: 323px;
+    font-weight: 300px;
+    font-size: 18px;
+    align-items: center;
+    color: #7D7987;
+}
+
+/* card parts */
+
+.cards {
+    display: flex;
+    align-items: center;
+}
+
+/* first crad */
+
+.first-card {
+    width: 350px;
+    height: 300px;
+    margin-left: 265px;
+    margin-top: 65px;
+    box-shadow: 10px 40px 50px 0px #E5E9F666;
+    border-radius: 20px;
+}
+
+.doc-search {
+    margin-left: 30px;
+    margin-top: 33px;
+}
+
+.titles {
+    margin-left: 24px;
+    font-size: 24px;
+    margin-top: 20px;
+    color: #000000;
+    line-height: 56px;
+}
+
+.card-text {
+    width: 266;
+    height: 84px;
+    font-size: 16px;
+    margin-left: 24px;
+    color: #7D7987;
+}
+
+.card-style {
+    width: 350px;
+    height: 300px;
+    margin-left: 25px;
+    margin-top: 65px;
+    box-shadow: 10px 40px 50px 0px #E5E9F666;
+    border-radius: 20px;
+}
+
+/* second card part */
+
+.second-part {
+    display: flex;
+    align-items: center;
+}
+
+.fourth-card {
+    width: 350px;
+    height: 300px;
+    margin-left: 265px;
+    margin-top: 35px;
+    box-shadow: 10px 40px 50px 0px #E5E9F666;
+    border-radius: 20px;
+}
+
+.learn {
+    width: 200px;
+    height: 56px;
+    margin-top: 50px;
+    margin-left: 702px;
+    border-radius: 55px;
+    background-color: white;
+    color: #458FF6;
+    border: 1.4px solid #458FF6
+}
+
+/* third section */
+
+.section {
+    display: flex;
+    align-items: center;
+}
+
+.image {
+    width: 650px;
+    height: 477px;
+    margin-top: 233px;
+    margin-left: 135px;
+}
+
+.traafalgar {
+    margin-top: 150px;
+    margin-left: 100px;
+}
+
+.providers {
+    width: 481px;
+    height: 112px;
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 56px;
+    color: #000;
+}
+
+.lineCare {
+    width: 56px;
+    height: 2px;
+    margin-top: 20px;
+    margin-left: 2px;
+    border-radius: 10px;
+    background-color: #000;
+}
+
+.leading {
+    width: 450px;
+    height: 120px;
+    margin-top: 20px;
+    font-size: 18px;
+    font-weight: 300;
+    line-height: 30px;
+    color: #7D7987;
+}
+
+.More {
+    width: 200px;
+    height: 60px;
+    border-radius: 55px;
+    color: #458FF6;
+    background-color: white;
+    border: 1.4px solid #458FF6
+}
+
+/* fouth section */
+
+.mobileApp {
+    /* justify-content: space-between; */
+    /* margin-top: 300px; */
+    display: flex;
+}
+
+.download {
+    width: 420px;
+    height: 375px;
+    margin-top: 300px;
+    margin-left: 280px;
+}
+
+.app {
+    width: 200px;
+    height: 56px;
+    margin-top: 4px;
+    border-radius: 55px;
+    color: #458FF6;
+    background-color: white;
+    border: 1.4px solid #458FF6
+}
+
+.icon {
+    padding: 14px 0px 15px 15px;
+}
