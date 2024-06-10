@@ -40,11 +40,19 @@ body {
     color: #1F1534;
 }
 
-
-
 .nav-li a {
     text-decoration: none;
     color: #1F1534;
+    font-size: 18px;
+}
+
+.nav-li a:hover {
+    text-decoration: underline;
+    transition: 0.4s ease;
+}
+
+.c-cursor-pinter {
+    cursor: pointer;
 }
 
 .header-text {
@@ -53,7 +61,7 @@ body {
     margin-top: 140px;
     border-radius: 55px;
 }
-
+/* 
 .healthcare {
     color: #000000;
 }
@@ -274,4 +282,4 @@ body {
 .app-img {
     margin-top: 250px;
     margin-left: 20px;
-}
+} */
