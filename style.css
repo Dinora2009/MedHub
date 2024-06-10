@@ -8,36 +8,35 @@ body {
     justify-content: space-between;
 }
 
-.logo-M {
+.logo {
+    border-radius: 50%;
+    /* padding: 5px 7px 8px 7px; */
+    background-color: #458FF6;
     width: 41px;
     height: 41px;
-    margin-top: 60px;
-    margin-left: 180px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.logo-M {
     font-size: 26px;
-    border-radius: 50%;
-    padding: 5px 7px 8px 7px;
     color: white;
-    background-color: #458FF6;
+    padding: 0;
+    margin: 0;
+    line-height: 0;
 }
 
 .logo-name {
-    width: 97px;
-    height: 30px;
-    margin-top: 62px;
     margin-left: 10px;
     color: #233348;
     font-size: 24px;
 }
 
 .nav-ul {
-    width: 328px;
-    height: 23px;
-    margin-top: 70px;
-    margin-left: 740px;
     display: flex;
     list-style-type: none;
     align-items: center;
-    justify-content: space-between;
     color: #1F1534;
 }
 
