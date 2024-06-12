@@ -132,7 +132,7 @@
 
 .service-card {
     width: 350px;
-    height: 300px;
+    /* height: 300px; */
     margin-top: 65px;
     border-radius: 20px;
 }
