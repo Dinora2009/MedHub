@@ -2,11 +2,11 @@
 .nav-inner {
     display: flex;
     justify-content: space-between;
-    z-index: 1000;
 }
 
 .logo {
     border-radius: 50%;
+    z-index: 1000;
     background-color: #458FF6;
     width: 41px;
     height: 41px;
