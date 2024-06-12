@@ -297,3 +297,10 @@
     margin-top: 250px;
     margin-left: 20px;
 }
+
+.services-line {
+    width: 56px;
+    height: 2px;
+    background-color: #000;
+
+}
