@@ -112,31 +112,24 @@
 
 /* our services */
 
+.service {
+    margin-top: 150px;
+}
+
 .title {
-    width: 212px;
-    height: 56px;
-    margin-top: 300px;
-    margin-left: 695px;
     font-size: 36px;
     color: #000000;
 }
 
-.line {
+/* .line {
     width: 56px;
     height: 2px;
-    margin-left: 772px;
     background-color: #000000;
-
-}
+} */
 
 .service-info {
-    width: 952px;
-    height: 60px;
-    margin-top: 50px;
-    margin-left: 323px;
     font-weight: 300px;
     font-size: 18px;
-    align-items: center;
     color: #7D7987;
 }
 
