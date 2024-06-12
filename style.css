@@ -54,16 +54,6 @@
     cursor: pointer;
 }
 
-.c-navbar {
-    top: 24px;
-}
-
-@media screen and (max-width: 768px) {
-    .c-navbar {
-        top: 4px;
-    }
-}
-
 /* end navbar */
 
 /* scollbar */
