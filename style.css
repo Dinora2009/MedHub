@@ -181,6 +181,10 @@
     color: #000;
 }
 
+.healthcare {
+    margin-top: 200px;
+}
+
 .leading {
     font-size: 18px;
     font-weight: 300;
@@ -198,42 +202,16 @@
 }
 
 /* fouth section */
-
-.mobileApp {
-    /* justify-content: space-between; */
-    /* margin-top: 300px; */
-    display: flex;
-}
-
 .download {
-    width: 420px;
-    height: 375px;
-    margin-top: 300px;
-    margin-left: 280px;
-}
-
-.app {
-    width: 200px;
-    height: 56px;
-    margin-top: 4px;
-    border-radius: 55px;
-    color: #458FF6;
-    background-color: white;
-    border: 1.4px solid #458FF6
+    margin-top: 150px;
 }
 
 .icon {
     padding: 14px 0px 15px 15px;
 }
 
-.app-img {
-    margin-top: 250px;
-    margin-left: 20px;
-}
-
 .services-line {
     width: 56px;
     height: 2px;
     background-color: #000;
-
 }
