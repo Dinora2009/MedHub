@@ -224,7 +224,7 @@
     height: 425px;
 }
 
-.man {
+.man img {
+    border: 4px solid #fff;
     border-radius: 50%;
-
 }
