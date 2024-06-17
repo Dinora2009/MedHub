@@ -245,3 +245,32 @@
     font-size: 19px;
     line-height: 30px;
 }
+
+.cardStyle {
+    width: 350px;
+    height: 512px;
+    box-shadow: 10px 40px 50px 0px #E5E9F666;
+    border-radius: 20px;
+}
+
+.textStyle {
+    padding: 25px 0px 0px 20px;
+    font-weight: 700;
+    font-size: 21px;
+    line-height: 32px;
+    color: #000;
+}
+
+.text-card {
+    padding: 10px 0px 0px 20px;
+    font-size: 16px;
+    color: #7D7987;
+}
+
+.images {
+    border-radius: 20px;
+}
+
+.card-body a {
+    padding: 10px 0px 0px 20px;
+}
