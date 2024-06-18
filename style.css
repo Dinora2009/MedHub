@@ -274,3 +274,45 @@
 .card-body a {
     padding: 10px 0px 0px 20px;
 }
+
+/* footer */
+
+.footer {
+    background: linear-gradient(183.41deg, #67C3F3 20.88%, #5A98F2 112.41%);
+}
+
+.logo {
+    border-radius: 50%;
+    background-color: #fff;
+}
+
+.Mlogo {
+    border-radius: 50%;
+    justify-content: space-between;
+    font-size: 26px;
+    font-weight: 700;
+    line-height: 32.63px;
+    text-align: left;
+    color: #5B9BF3;
+}
+
+.name {
+    padding: 5px 0px 0px 10px;
+    font-size: 19px;
+    line-height: 30.12px;
+    /* text-align: left; */
+}
+
+.footer h5 {
+    font-size: 20px;
+
+}
+
+.footer-content li {
+    margin-bottom: 10px;
+}
+
+.footer-content li a {
+    display: block;
+    font-size: 16px;
+}
